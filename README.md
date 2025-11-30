@@ -1,1 +1,1 @@
-# eclipse-cafe-project
+# eclipse-cafe
