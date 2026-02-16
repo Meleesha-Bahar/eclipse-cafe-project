@@ -18,7 +18,6 @@ This project focuses on backend development, relational database design, and fro
 
 - Dynamic menu display retrieved from database  
 - Order placement and storage functionality  
-- Structured relational database schema  
 - Admin account logic implementation  
 - Sample data for realistic testing  
 
@@ -34,10 +33,23 @@ This project focuses on backend development, relational database design, and fro
 
 ---
 
+## 🗄 Database
+
+The application uses a structured MySQL database with the following tables:
+
+- **Menu Items** – Stores details of each café item (name, description, price, category)  
+- **Orders** – Stores placed orders with user and item details  
+- **Admin Accounts** – Stores credentials for admin access  
+- **Contact Messages** – Stores messages sent through the contact form  
+
+Sample data is included for testing and demonstration purposes.
+
+---
+
 ## ⚙️ Installation & Setup
 
 1. Clone the repository  
-2. Import the SQL file into MySQL  
+2. Import the provided SQL file into MySQL  
 3. Configure database connection in PHP files  
 4. Run using XAMPP or any local server environment  
 
@@ -45,10 +57,10 @@ This project focuses on backend development, relational database design, and fro
 
 ## 🎯 Concepts Applied
 
-- Relational database design  
-- Dynamic content rendering  
-- Backend data handling  
-- Structured system workflow implementation  
+- Relational database design and normalization  
+- Dynamic content retrieval from database  
+- Backend–frontend integration  
+- Data handling and storage workflow  
 
 ---
 
@@ -70,3 +82,4 @@ https://github.com/Meleesha-Bahar/eclipse-cafe-project
 Diploma in Computer System Design  
 
 GitHub: https://github.com/Meleesha-Bahar
+
