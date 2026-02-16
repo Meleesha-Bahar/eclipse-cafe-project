@@ -78,7 +78,7 @@ https://github.com/Meleesha-Bahar/eclipse-cafe-project
 
 ## 👩‍💻 Developed By
 
-**Meleesha Bahar**  
+**Meleesha Bahardeen**  
 Diploma in Computer System Design  
 
 GitHub: https://github.com/Meleesha-Bahar
