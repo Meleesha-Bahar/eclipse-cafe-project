@@ -80,6 +80,7 @@ https://github.com/Meleesha-Bahar/eclipse-cafe-project
 
 **Meleesha Bahardeen**  
 Diploma in Computer System Design  
+Developing Modern Web (DMW) – Coursework
 
 GitHub: https://github.com/Meleesha-Bahar
 
